@@ -1,6 +1,7 @@
 import SwiftUI
 
-@main struct CodeBreakerApp: App {
+@main
+struct CodeBreakerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
